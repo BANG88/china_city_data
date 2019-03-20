@@ -1,0 +1,21 @@
+{
+  "name": "@bang88/china_city_data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bang88/china_city_data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bang88/china_city_data/issues"
+  },
+  "homepage": "https://github.com/bang88/china_city_data#readme",
+  "description": ""
+}
